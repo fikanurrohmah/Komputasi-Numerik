@@ -1,5 +1,5 @@
 Link Google Colab
-https://colab.research.google.com/drive/1K7neO4quhS5LkjP_G3SbZ64DFJLxWhMo
+https://colab.research.google.com/drive/1SmK_hBI7KBBu7PVkPm5f8npZwvKmd7ut?usp=sharing
 
 Link GitHub
 https://github.com/fikanurrohmah
