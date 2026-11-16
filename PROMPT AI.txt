@@ -1,0 +1,55 @@
+DOKUMENTASI PROMPT AI
+TUGAS KOMPUTASI NUMERIK
+
+Nama: Fika Nurrohmah
+Program Studi: Teknik Informatika
+AI yang digunakan: ChatGPT
+
+
+1. PEMBUATAN ALGORITMA SPLTV
+
+"Buatkan algoritma penyelesaian SPLTV menggunakan metode Eliminasi Gauss. Buat yang sederhana dan gampang dipahami."
+
+2. PEMBUATAN PSEUDOCODE
+
+"Buatkan pseudocode dari algoritma SPLTV yang sudah dibuat. Gunakan bahasa yang sederhana dan jangan terlalu rumit."
+
+3. PEMBUATAN FLOWCHART
+
+"Buatkan flowchart algoritma SPLTV yang sederhana. Jelaskan juga bagian mana yang menggunakan simbol belah ketupat dan apa isi kondisinya."
+
+4. PEMILIHAN PERSAMAAN
+
+"Aku ingin menggunakan persamaan sendiri. Bisa bantu buat atau sesuaikan persamaan SPLTV supaya hasil x, y, dan z berupa bilangan bulat?"
+
+5. PEMBUATAN PROGRAM PYTHON
+
+"Buatkan kode Python untuk menyelesaikan SPLTV menggunakan metode Eliminasi Gauss berdasarkan algoritma yang sudah dibuat. Kodenya nanti akan aku jalankan di Google Colab."
+
+6. PEMBAGIAN CELL GOOGLE COLAB
+
+"Pastikan kode Python-nya tertata dalam beberapa cell supaya bisa dijalankan pada setiap cell di Google Colab."
+
+7. PENAMBAHAN OUTPUT
+
+"Tambahkan output pada setiap cell supaya hasil dari proses perhitungannya bisa dilihat."
+
+8. PENJELASAN KODE PYTHON
+
+"Tolong jelaskan kode Python ini karena aku belum paham sama sekali. Yang aku pahami baru syntax print. Jelaskan pelan-pelan menggunakan bahasa yang gampang dimengerti."
+
+9. PENAMBAHAN KOMENTAR KODE
+
+"Tambahkan penjelasan pada setiap bagian kode menggunakan tanda # supaya aku tahu fungsi dari setiap baris atau cell."
+
+10. PENYIMPANAN KE GITHUB
+
+"Jelaskan cara memasukkan file Google Colab ke repository GitHub karena file kodenya sudah ada di Google Colab."
+
+11. DOKUMENTASI PENGGUNAAN AI
+
+"Bantu susun prompt yang sudah aku gunakan selama mengerjakan tugas SPLTV ke dalam file .txt untuk disimpan di GitHub."
+
+KETERANGAN
+
+ChatGPT digunakan untuk membantu memahami materi SPLTV, membuat algoritma dan pseudocode, menyusun flowchart, membuat program Python menggunakan metode Eliminasi Gauss, serta menjelaskan fungsi setiap bagian kode agar lebih mudah dipahami.
