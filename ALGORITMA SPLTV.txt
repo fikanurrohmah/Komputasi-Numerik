@@ -1,0 +1,60 @@
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINEAR TIGA VARIABEL (SPLTV) MENGGUNAKAN METODE ELIMINASI GAUSS
+
+Tujuan
+Membuat algoritma untuk menyelesaikan Sistem Persamaan Linear Tiga Variabel (SPLTV) dengan menggunakan metode Eliminasi Gauss. 
+
+1.	Algoritma Bahasa Manusia
+
+Kamus 
+	  Matriks A[3][4]
+a, b, c : Koefisien persamaan
+d       : Konstanta persamaan
+x, y, z : Variabel yang dicari
+
+Algoritma
+1. Mulai.
+2. Masukkan nilai koefisien dan konstanta
+   dari ketiga persamaan.
+3. Susun nilai tersebut ke dalam bentuk
+   matriks augmented.
+4. Lakukan operasi baris untuk menghilangkan
+   nilai di bawah elemen utama (pivot).
+5. Ulangi proses eliminasi sampai matriks
+   membentuk segitiga atas.
+6. Hitung nilai z terlebih dahulu, kemudian
+   cari nilai y dan x menggunakan substitusi mundur.
+7. Tampilkan hasil nilai x, y, dan z.
+8. Selesai.
+
+2.	Algoritma Pseudcode
+
+Kamus:
+    A : Matriks 3 x 4
+    x, y, z : Real
+    i, j, k : Integer
+    faktor : Real
+
+Algoritma:
+    INPUT matriks A
+
+    FOR k = 1 TO 2
+        FOR i = k+1 TO 3
+       	  faktor = A[i,k] / A[k,k]
+
+            FOR j = k TO 4
+                A[i,j] = A[i,j] - faktor * A[k,j]
+            ENDFOR
+        ENDFOR
+    ENDFOR
+
+    HITUNG z
+    HITUNG y
+    HITUNG x
+    OUTPUT x, y, z
+SELESAI
+
+3.	Algoritma Flowchart
+
+
+
+
